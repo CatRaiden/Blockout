@@ -14,7 +14,6 @@ class ViewController: BaseViewController {
         super.loadView()
     }
 
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         addSomething()
